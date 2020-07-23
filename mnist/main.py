@@ -1,5 +1,6 @@
 from __future__ import print_function
 import json
+import requests as req
 import argparse
 import torch
 import torch.nn as nn
